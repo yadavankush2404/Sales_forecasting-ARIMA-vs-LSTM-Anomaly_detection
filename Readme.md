@@ -1,7 +1,3 @@
-Here’s a professional and GitHub-ready README.md file for your project, now updated to include the new section for Anomaly Detection using LSTM Autoencoders in Keras.
-
-📄 README.md — Sales Forecasting & Anomaly Detection
-
 # 🛍️ Sales Forecasting & Anomaly Detection with ARIMA, LSTM & Autoencoders
 
 This project performs time series analysis and forecasting on retail sales data using ARIMA and LSTM models. It also includes anomaly detection using LSTM-based Autoencoders, all integrated with an SQLite database backend.
