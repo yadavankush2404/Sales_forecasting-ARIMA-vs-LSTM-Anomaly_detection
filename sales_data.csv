@@ -1,0 +1,11 @@
+date,store,product,sales
+2022-01-01,Store_A,Product_1,20
+2022-01-02,Store_A,Product_1,22
+2022-01-03,Store_A,Product_1,18
+2022-01-04,Store_A,Product_1,24
+2022-01-05,Store_A,Product_1,19
+2022-01-06,Store_A,Product_1,23
+2022-01-07,Store_A,Product_1,25
+2022-01-08,Store_A,Product_1,27
+2022-01-09,Store_A,Product_1,29
+2022-01-10,Store_A,Product_1,30
